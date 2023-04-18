@@ -1,0 +1,32 @@
+{"features":
+[
+    {"type": "open",
+     "triggers": ["open", "start", "run"]},
+
+    {"type": "close",
+     "triggers": ["close", "closed", "stop", "exit", "end"]},
+
+    {"type": "greeting",
+     "triggers": ["hello", "hi", "how are you", "how are you doing", "what's up", "what is up"]},
+
+    {"type": "search",
+    "triggers": ["who is", "what is", "look up", "search"]},
+
+    {"type": "logoff",
+    "triggers": ["log off", "logoff", "log me off", "log out", "log me out", "sign out", "sign me out"]},
+
+    {"type": "shutdown",
+    "triggers": ["shut down", "shutdown"]},
+
+    {"type": "add note",
+    "triggers": ["add a note", "add note", "new note", "create a new note", "create new note"]},
+
+    {"type": "edit note",
+    "triggers": ["edit note", "edit a note", "edit my note", "edit my notes", "change note", "change a note"]},
+
+    {"type": "delete note",
+    "triggers": ["remove note", "remove a note", "delete note", "delete a note"]},
+
+    {"type": "read note",
+    "triggers": ["read note", "read my note", "read a note"]}
+]}
