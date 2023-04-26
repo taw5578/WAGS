@@ -20,9 +20,12 @@ WAGS will not respond to a command unless you say his name first.
 
 ## Installation
 The installation process is as follows:<br>
-1. Download the contents of this repository and place the folder somewhere on your computer
-2. Inside the folder, move the 'WAGS.exe' to an easy to access place
-3. Simply double click the exe file you just moved and WAGS will launch!
+1. Download the contents of this repository as a zip
+2. Right click the zip folder and select "Extract all..." then select where you want the unzipped folder to be located
+3. Inside the now unzipped folder, go to the AppWAGS folder and find the 'WAGS.exe' file
+4. Right click this file and select 'Create shortcut'
+5. Drag this newly created shortcut anywhere on your device
+6. Simply double click the shortcut file you just moved and WAGS will launch!
 
 
 ---

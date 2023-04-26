@@ -1,5 +1,6 @@
 {
     "firefox": "308046B0AF4A39CB",
+    "firefox private browsing": "308046B0AF4A39CB;PrivateBrowsingAUMID",
     "mingw installation manager": "C:\\MinGW\\libexec\\mingw-get\\guimain.exe",
     "ableton live lite": "C:\\ProgramData\\Ableton\\Live 9 Lite\\Program\\Ableton Live 9 Lite.exe",
     "riot client": "C:\\Riot Games\\Riot Client\\RiotClientServices.exe",
@@ -244,7 +245,6 @@
     "movies & tv": "Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo",
     "tips": "Microsoft.Getstarted_8wekyb3d8bbwe!App",
     "3d viewer": "Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer",
-    "microsoft office": "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub",
     "3d builder": "Microsoft.3DBuilder_8wekyb3d8bbwe!App",
     "facebook": "FACEBOOK.FACEBOOK_8xx8rvfyw5nnt!App",
     "mail": "microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail",
@@ -262,9 +262,10 @@
     "photos": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App",
     "video editor": "Microsoft.Windows.Photos_8wekyb3d8bbwe!SecondaryEntry",
     "maps": "Microsoft.WindowsMaps_8wekyb3d8bbwe!App",
-    "candy crush soda saga": "king.com.CandyCrushSodaSaga_kgqvnymyfvs32!App",
     "hp smart": "AD2F1837.HPPrinterControl_v10z8vjag6ke6!AD2F1837.HPPrinterControl",
     "onenote for windows": "Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim",
     "xbox game bar": "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App",
-    "news": "Microsoft.BingNews_8wekyb3d8bbwe!AppexNews"
+    "news": "Microsoft.BingNews_8wekyb3d8bbwe!AppexNews",
+    "microsoft office": "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub",
+    "candy crush soda saga": "king.com.CandyCrushSodaSaga_kgqvnymyfvs32!App"
 }

@@ -1,5 +1,6 @@
 {
     "firefox": "",
+    "firefox private browsing": "",
     "mingw installation manager": "",
     "ableton live lite": "",
     "riot client": "",
@@ -244,7 +245,6 @@
     "movies & tv": "",
     "tips": "",
     "3d viewer": "",
-    "microsoft office": "",
     "3d builder": "",
     "facebook": "",
     "mail": "",
@@ -262,9 +262,10 @@
     "photos": "",
     "video editor": "",
     "maps": "",
-    "candy crush soda saga": "",
     "hp smart": "",
     "onenote for windows": "",
     "xbox game bar": "",
-    "news": ""
+    "news": "",
+    "microsoft office": "",
+    "candy crush soda saga": ""
 }
